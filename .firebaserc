@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "tipstore-dae2f",
+    "staging": "tipstore-92da8"
+  },
+  "targets": {}
+}
